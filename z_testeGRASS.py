@@ -4,6 +4,7 @@ import sys
 #http://www.kyngchaos.com/software/grass
 #http://grass.osgeo.org/wiki/GRASS_Python_Scripting_Library
 #http://code.google.com/p/postgis-grass-r-py/wiki/0003_01_PythonForGrassGis
+#http://grass.osgeo.org/programming6/pythonlib.html
 
 # env setup
 gisbase = os.environ['GISBASE'] = "/Applications/GRASS/GRASS-7.0.app/Contents/MacOS/"
